@@ -310,6 +310,6 @@ Disconnect-VIServer * -Confirm:$false
 
  
 
-#Wait for the VMs to shut down
+#Wait for the VMs to shut down.
 
 Sleep 60
